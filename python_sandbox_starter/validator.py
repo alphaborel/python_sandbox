@@ -1,5 +1,5 @@
 # Example of a custom module to be imported
-
+# re is a core module for regular expressions
 import re
 
 
